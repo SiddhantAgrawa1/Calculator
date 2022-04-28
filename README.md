@@ -1,6 +1,6 @@
 # Calculator
 
-Hello Everyone. It is my 4th task of Lets Upgrade Web Development Internship.
+Hello Everyone. It is my 4th task of LetsGrowMore Web Development Internship.
 
 The task is : "You have to create a Simple Calculator that should be hosted on GitHub and working".
 
